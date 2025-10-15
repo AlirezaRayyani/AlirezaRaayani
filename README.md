@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 <!-- تصویر پروفایل -->
-<img src="photo_2025-10-13_21-35-23.jpg" alt="My Photo" width="500" style="border-radius:10px;">
+<img src="photo_2025-10-13_21-35-23.jpg" alt="My Photo" width="700" style="border-radius:10px;">
 
 ## ⚡️ Technologies & Tools
 
