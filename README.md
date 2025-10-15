@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 <!-- تصویر پروفایل -->
-<img src="photo_2024-07-03_16-15-51.jpg" alt="My Photo" width="200" style="border-radius:10px;">
+<img src="photo_2024-07-03_16-15-51.jpg" alt="My Photo" width="500" style="border-radius:10px;">
 
 ## ⚡️ Technologies & Tools
 
